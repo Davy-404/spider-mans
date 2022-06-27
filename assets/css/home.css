@@ -18,6 +18,10 @@ body::before {
   transition: background-image 1s ease-in-out, opacity 1s ease-in-out;
 }
 
+.fav-icon{
+  color: black;
+}
+
 .s-menu {
   padding-top: 1rem;
   width: 100%;
